@@ -1,5 +1,5 @@
 package edu.icet.chat.util;
 
 public enum MessageType {
-    CHAT, JOIN, LEAVER
+    CHAT, JOIN, LEAVE
 }
